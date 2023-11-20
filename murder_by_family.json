@@ -1,0 +1,21 @@
+[
+  { "relation": "Wife", "count": 482, "colour": "#700083" },
+  { "relation": "Other family", "count": 327, "colour": "#8200A2" },
+  { "relation": "Son", "count": 259, "colour": "#9300C1"  },
+  { "relation": "Father", "count": 178, "colour": "#A100E0"  },
+  { "relation": "Daughter", "count": 171, "colour": "#ad00ff"  },
+  { "relation": "Mother", "count": 166, "colour": "#C628F0"  },
+  { "relation": "Brother", "count": 115, "colour": "#DC6FDB"  },
+  { "relation": "Husband", "count": 85, "colour": "#D78ECF"  },
+  { "relation": "Sister", "count": 27, "colour": "#D6A9CB"  }
+]
+
+
+
+
+
+
+
+
+
+
