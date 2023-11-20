@@ -1,9 +1,0 @@
-[
-  { "relation": "Acquaintance", "count": 2778, "colour": "#8200A2" },
-  { "relation": "Friend", "count": 345 , "colour": "#9300C1" },
-  { "relation": "Boyfriend", "count": 187, "colour": "#A100E0" },
-  { "relation": "Girlfriend", "count": 505, "colour": "#ad00ff"  },
-  { "relation": "Neighbor", "count": 100, "colour": "#C628F0"  },
-  { "relation": "Employee", "count": 9 , "colour": "#DC6FDB" },
-  { "relation": "Employer", "count": 13 , "colour": "#D78ECF" }
-]
