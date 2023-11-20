@@ -1,0 +1,6 @@
+[
+  { "relation": "Other Known", "count": 28.3 , "victims": "3,937", "colour" : "#8d25f5"},
+  { "relation": "Family", "count": 13, "victims": "1,810", "colour" : "#b16cf5" },
+  { "relation": "Unknown", "count": 48.9, "victims": "6,808", "colour" : "#7d05f5"} ,
+  { "relation": "Stranger", "count": 9.9, "victims": "1,372", "colour" : "#a24ef5" }
+]

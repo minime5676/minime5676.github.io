@@ -1,0 +1,6 @@
+[
+  { "relation": "White Women", "count": 37, "colour" : "#ad00ff"} ,
+  { "relation": "Black Women", "count": 43.7 , "colour" : "#A100E0"},
+  { "relation": "American Indian Women", "count": 46, "colour" : "#9300C1" },
+  { "relation": "Multiracial Women", "count": 53.8, "colour" : "#8200A2" }
+]
